@@ -1,2 +1,2 @@
 # Regression-Models
-Regression Models in Forestry Science
+Regression Models in Forestry
